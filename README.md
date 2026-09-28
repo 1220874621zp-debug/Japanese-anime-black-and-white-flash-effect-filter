@@ -1,3 +1,8 @@
+<img width="2304" height="1728" alt="2" src="https://github.com/user-attachments/assets/c6ab68f8-996e-459f-a060-be667bfb66cc" />
+<img width="1920" height="1080" alt="9月28日(1)" src="https://github.com/user-attachments/assets/b4713d39-6307-40dd-849b-6665db298b90" />
+<img width="1920" height="1080" alt="9月28日" src="https://github.com/user-attachments/assets/16e7463d-b4c4-4ca7-9ba6-aa8f311a7dfb" />
+
+
 # BWF 黑白闪 — 日式动画黑白闪光 AE 特效滤镜
 
 原创 After Effects 特效插件（.aex），一键生成日式动画中经典的**黑白闪**冲击帧效果：受击、必杀、爆炸瞬间画面被撕成黑底白光（或自定义双色）的放射状闪光，带有从人物轮廓向外迸发的光线和速度感径向模糊。
